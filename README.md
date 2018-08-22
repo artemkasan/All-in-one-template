@@ -1,4 +1,4 @@
-# All-in-one-template
+# All in one template
 Project template where combined following features:
 1. React
 2. Typescript
